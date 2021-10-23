@@ -1,0 +1,192 @@
+#body{
+  padding:4% 7% 14%;
+}
+.view{
+opacity: 2.5;
+color:grey;
+  text-decoration: none;
+}
+.down-button{
+  text-align: center;
+
+}
+.content{
+  background-color:#ffffff;
+ border-radius: 7px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-top: 30px;
+  color:#000000;
+}
+.download-inside{
+  color:#000000;
+  margin-top: 10px;
+}
+.download-button{
+  margin:8px;
+}
+#fashion{
+  padding:4% 7% 15%;
+
+  text-align: center;
+}
+#sports{
+  padding:4% 7% 15%;
+
+  text-align: center;
+}
+#cooking{
+    padding:4% 7% 15%;
+      text-align: center;
+}
+#travel{
+    padding:4% 7% 15%;
+      text-align: center;
+}
+#discover{
+  padding:3% 7% 14%;
+
+}
+.cloud{
+  margin-left: 60%;
+}
+.bird{
+  margin-left: 10px;
+}
+.top{
+  font-size: 200%;
+}
+.navbar{
+  background-color: #ffffff;
+
+}
+.circle{
+  color:#ffffff;
+}
+.compass{
+  color:#000000;
+}
+.nav-item{
+align-items: flex-end;
+}
+#discover{
+  padding:4% 7% 14%;
+}
+
+.a-box {
+  display: inline-block;
+  width: 240px;
+  text-align: center;
+}
+.a-box:hover{
+  color:grey;
+}
+.img-container {
+    height: 230px;
+    width: 200px;
+    overflow: hidden;
+    border-radius: 0px 0px 20px 20px;
+    display: inline-block;
+}
+
+.img-container img {
+    transform: skew(0deg, -13deg);
+    height: 240px;
+    margin: -35px 0px 0px -70px;
+}
+
+.inner-skew {
+    display: inline-block;
+    border-radius: 20px;
+    overflow: hidden;
+    padding: 0px;
+    transform: skew(0deg, 13deg);
+    font-size: 0px;
+    margin: 30px 0px 0px 0px;
+    background: #c8c2c2;
+    height: 240px;
+    width: 200px;
+}
+
+.text-container {
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+  padding: 120px 20px 20px 20px;
+  border-radius: 20px;
+  background: #fff;
+  margin: -120px 0px 0px 0px;
+  line-height: 19px;
+  font-size: 14px;
+}
+
+.text-container h3 {
+  margin: 20px 0px 10px 0px;
+  color: #000000;
+  font-size: 18px;
+}
+#cards{
+  padding:4% 7% 14%;
+
+  text-align: center;
+}
+body{
+  background-color: #E8E1D9;
+}
+#middle-cards{
+    padding:4% 7% 14%;
+    text-align: center;
+}
+.skin{
+  text-align: left;
+}
+p{
+  font-size: 1.5rem;
+}
+.footer-basic {
+  padding:40px 6px;
+  background-color:#ffffff;
+  color:#000000;
+}
+
+.footer-basic ul {
+  padding:10px;
+
+  text-align:center;
+  font-size:25px;
+  line-height:1.6;
+  margin-bottom:4%;
+  color:#000000;
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.footer-basic li {
+  padding:0 10px;
+  color:#000000;
+}
+
+.footer-basic ul a {
+  color:inherit;
+  color:#000000;
+  text-decoration:none;
+
+}
+
+.footer-basic ul a:hover {
+  opacity:5;
+}
+
+.list-inline-item{
+  color:#000000;
+}
+
+.footer-basic .copyright {
+  margin-top:15px;
+  text-align:center;
+  color:#000000;
+  margin-bottom:0;
+  padding:3% 3%;
+}
+#footer{
+  color:#000000;
+}
