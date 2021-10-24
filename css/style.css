@@ -157,7 +157,8 @@ p{
   color:#000000;
 }
 .dark-mode {
-  background-color: black;
+ background: rgb(0,35,36);
+background: linear-gradient(90deg, rgba(0,35,36,1) 1%, rgba(4,47,65,1) 63%, rgba(255,255,255,1) 100%);
   color: white;
 }
 .footer-basic li {
